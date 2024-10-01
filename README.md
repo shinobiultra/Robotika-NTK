@@ -2,9 +2,13 @@
 Public course materials for NTK robotics workshop(s), taught in Prague.
 
 **[Czech Slides for the Walking Robots Competition Workshop](slides/slides_soutez_cz.pdf)**
+
 **[Czech Slides for the Walking Robots Primary Workshop](slides/slides_dilna_cz.pdf)**
+
 **[English Slides for the Walking Robots Primary Workshop](slides/slides_dilna_en.pdf)**
+
 **[Slides RoboZoo](slides/slides_zoo_cz.pdf)**
+
 **[Cheat Sheet](cheatsheet/tahak.pdf)**
 
 ## Licensing
